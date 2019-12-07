@@ -11,8 +11,8 @@
 ## Content
 
 - [Generative methods](#generative-methods)
-- [Graph convolutional network](#Graph convolutional network)
-- [Meta learning](#Meta learning)
+- [Graph convolutional network](#graph-convolutional-network)
+- [Meta learning](#meta-learning)
 
 
 ## Generative methods
