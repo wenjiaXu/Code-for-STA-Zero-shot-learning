@@ -10,7 +10,7 @@
 
 ## Content
 
-- [Generative methods](#Generative methods)
+- [Generative methods](#generative-methods)
 - [Graph convolutional network](#Graph convolutional network)
 - [Meta learning](#Meta learning)
 
